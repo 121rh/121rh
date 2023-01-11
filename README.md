@@ -13,9 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+GitHub Star
+<a href="https://github.com/121rh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=121rh&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="FYA's github stats" /></a> 
+
 -->
 
 <a href="https://github.com/121rh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=121rh&layout=compact&theme=vue&hide_border=true" /></a>  
 </hr>
-<a href="https://github.com/121rh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=121rh&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="FYA's github stats" /></a> 
 
