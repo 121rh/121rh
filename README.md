@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 
 GitHub Star
 <a href="https://github.com/121rh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=121rh&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="FYA's github stats" /></a> 
-
 -->
 
-<a href="https://github.com/121rh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=121rh&layout=compact&theme=vue&hide_border=true" /></a>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=121rh)](https://github.com/121rh/github-readme-stats)
 </hr>
-
+![Visitor Count](https://profile-counter.glitch.me/121rh/count.svg)
+</hr>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=121rh&layout=compact)](https://github.com/121rh/github-readme-stats)
